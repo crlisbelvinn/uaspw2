@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <rdf:Description rdf:about="orang1" >
+    <foaf:name>Hajarani Syadzwana</foaf:name>
+    <dc:nim>201401082</dc:nim>
+    <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
+    <foaf:img>https://hajaraniwana.github.io/kopi/IMG-20211003-WA0006.jpg</foaf:img>
+    
+  </rdf:Description>
+    <rdf:Description rdf:about="orang2" >
+    <foaf:name>Muhammad Iqbal Aldenna</foaf:name>
+    <dc:nim>201401077</dc:nim>
+    <dc:email>iaiqbal42@gmail.com</dc:email>
+    <foaf:img>https://hajaraniwana.github.io/kopi/iqbal.jpg</foaf:img>
+  </rdf:Description>
+</rdf:RDF>
