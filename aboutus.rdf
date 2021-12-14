@@ -7,12 +7,13 @@
     <dc:nim>201401082</dc:nim>
     <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
     <foaf:img>https://hajaraniwana.github.io/kopi/IMG-20211003-WA0006.jpg</foaf:img>
-    
+    <foaf:quotes>Happiness is not something ready made. It comes from your own actions</foaf:quotes>
   </rdf:Description>
     <rdf:Description rdf:about="orang2" >
     <foaf:name>Muhammad Iqbal Aldenna</foaf:name>
     <dc:nim>201401077</dc:nim>
     <dc:email>iaiqbal42@gmail.com</dc:email>
     <foaf:img>https://hajaraniwana.github.io/kopi/iqbal.jpg</foaf:img>
+    <foaf:quotes>Words can inspire, thoughts can provoke, but only action truly brings you closer to your dreams</foaf:quotes>
   </rdf:Description>
 </rdf:RDF>
