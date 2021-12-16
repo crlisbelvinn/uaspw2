@@ -1,0 +1,379 @@
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:features="http://www.librarydemundo.com/features#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:descriptions="http://www.librarydemundo.com/descriptions#">
+
+<rdf:Description rdf:about="http://www.librarydemundo.com/bilioner">
+    <dc:person rdf:resource="http://www.librarydemundo.com/features/Elon_Musk"/>
+    <dc:person rdf:resource="http://www.librarydemundo.com/features/Bernard_Arnault"/>
+    <dc:person rdf:resource="http://www.librarydemundo.com/features/Bill_Gates"/>
+    <dc:person rdf:resource="http://www.librarydemundo.com/features/Mark_Zuckerberg"/>
+    <dc:person rdf:resource="http://www.librarydemundo.com/features/Jeff_Bezos"/>
+</rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/Jeff_Bezos">
+    <features:Name>Jeff Bezos</features:Name>
+    <features:Umur>57</features:Umur>
+    <features:kekayaan>177B</features:kekayaan>
+    <features:Negara_Tinggal>United States</features:Negara_Tinggal>
+    <features:img>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg/800px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg
+    </features:img>
+    <descriptions:awal_hidup>Jeffrey Preston Jorgensen lahir di Albuquerque, New Mexico, pada 12 Januari 1964, 
+    putra Jacklyn (née Gise) dan Theodore Jorgensen.Kakek buyut biologisnya, John Jørgensen, lahir di pulau kecil Sams, 
+    Denmark. John berimigrasi ke Chicago sekitar tahun 1900 dan memiliki seorang putra, Theodore "Ted" John Jorgensen (lahir 1917) 
+    dengan istrinya, Ida Minnie Jorgensen, yang juga lahir di Denmark. Putra ini adalah ayah dari Ted Jorgensen (lahir 1944), 
+    ayah biologis Bezos..Pada saat kelahiran Jeffrey, ibunya adalah seorang siswa SMA berusia 
+    17 tahun dan anaknya ayah berusia 19 tahun.Setelah menyelesaikan sekolah menengah atas meskipun dalam kondisi yang menantang, 
+    Jacklyn menghadiri sekolah malam sambil membawa Jeffrey sebagai bayi. Setelah orang tuanya bercerai, ibunya menikah dengan imigran 
+    Kuba Miguel "Mike" Bezos pada April 1968.Tak lama setelah pernikahan, Mike mengadopsi Jeffrey yang berusia empat tahun, yang nama 
+    belakangnya kemudian secara resmi diubah dari Jorgensen menjadi Bezos.
+    </descriptions:awal_hidup>
+    <descriptions:wealth>Pada tanggal 6 Maret 2018, Bezos ditetapkan sebagai orang terkaya di dunia dengan kekayaan bersih terdaftar 
+    sebesar $ 112 miliar. Dia menggeser Bill Gates ($ 90 miliar) yang $ 6 miliar di depan Warren Buffett ($ 84 miliar), peringkat ketiga. 
+    dianggap sebagai centi-miliarder terdaftar pertama (tidak disesuaikan dengan inflasi).Kekayaannya, pada periode 2017/18, setara dengan
+    2,7 juta orang Amerika. Kekayaan bersih Bezos meningkat sebesar $33,6 miliar dari Januari 2017 hingga Januari 2018. Peningkatan ini
+    melampaui pembangunan ekonomi (dalam hal PDB) lebih dari 96 negara di seluruh dunia. Selama 9 Maret, Bezos memperoleh $230.000
+    setiap 60 detik. The Motley Fool memperkirakan bahwa jika Bezos tidak menjual sahamnya dari penawaran umum awalnya pada tahun 1997,
+    kekayaan bersihnya akan mencapai $ 181 miliar pada tahun 2018. Menurut Quartz, kekayaan bersihnya sebesar $ 150 miliar pada Juli 2018
+    sudah cukup untuk membeli. seluruh pasar saham Nigeria, Hongaria, Mesir, Luksemburg, dan Iran. 
+    </descriptions:wealth>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/Elon_Musk">
+    <features:Name>Elon Musk</features:Name>
+    <features:Umur>49</features:Umur>
+    <features:kekayaan>151B</features:kekayaan>
+    <features:Negara_Tinggal>United States</features:Negara_Tinggal>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg
+    </features:img>
+    <descriptions:awal_hidup>Elon Reeve Musk lahir pada 28 Juni 1971 di Pretoria, Afrika Selatan. Ibunya adalah Maye Musk (née Haldeman), seorang model dan 
+    ahli diet yang lahir di Saskatchewan, Kanada, tetapi dibesarkan di Afrika Selatan. Ayahnya adalah Errol Musk, seorang insinyur 
+    elektromekanis Afrika Selatan, pilot, pelaut, konsultan, dan pengembang properti yang pernah membeli saham di tambang zamrud Zambia 
+    di dekat Danau Tanganyika. Musk memiliki adik laki-laki, Kimbal (lahir 1972), dan seorang adik laki-laki. saudara perempuannya, Tosca 
+    (lahir 1974). Kakek dari pihak ibu, Joshua Haldeman, adalah seorang Kanada kelahiran Amerika, dan Musk memiliki keturunan Inggris dan
+    Pennsylvania Belanda. Keluarga itu kaya di masa muda Elon dan "memiliki salah satu rumah terbesar di Pretoria". Setelah orang tuanya
+    bercerai pada tahun 1980, Musk sebagian besar tinggal bersama ayahnya di Pretoria dan di tempat lain, pilihan yang dia buat dua tahun
+    setelah perceraian dan kemudian disesali. Musk telah menjadi terasing dari ayahnya, yang dia gambarkan sebagai "manusia yang mengerikan... 
+    Hampir setiap hal jahat yang mungkin Anda pikirkan, telah dia lakukan." Dia memiliki saudara tiri dan saudara tiri dari pihak ayahnya.
+    Sekitar usia 10, Musk mengembangkan minat dalam komputasi dan video game dan memperoleh Commodore VIC-20. Dia belajar 
+    pemrograman komputer menggunakan manual dan, pada usia 12, menjual kode video game berbasis BASIC yang dia buat yang 
+    disebut Blastar ke PC dan majalah Office Technology seharga sekitar $500. Seorang anak yang canggung dan tertutup, 
+    Musk diintimidasi sepanjang masa kecilnya dan pernah dirawat di rumah sakit setelah sekelompok anak laki-laki 
+    melemparkannya dari tangga. Dia bersekolah di Waterkloof House Preparatory School dan Bryanston High School sebelum 
+    lulus dari SMA Putra Pretoria. 
+    </descriptions:awal_hidup>
+    <descriptions:wealth>Musk menghasilkan $ 165 juta ketika PayPal dijual ke eBay pada tahun 2002. Dia pertama kali terdaftar di Daftar Miliarder Forbes pada 
+    tahun 2012, dengan kekayaan bersih $ 2 miliar.Pada awal tahun 2020, Musk memiliki kekayaan bersih sebesar $27 miliar. Sepanjang tahun itu, kekayaan bersihnya meningkat sebesar 
+    $150 miliar, sebagian besar didorong oleh kepemilikannya atas sekitar 20% saham Tesla. Selama ini, kekayaan bersih Musk sering tidak 
+    stabil. Misalnya, turun $16,3 miliar pada bulan September, penurunan satu hari terbesar dalam sejarah Bloomberg Billionaires Index.
+    Pada bulan November tahun itu, Musk melewati salah satu pendiri Facebook Mark Zuckerberg untuk menjadi orang terkaya ketiga di dunia; 
+    seminggu kemudian ia melewati salah satu pendiri Microsoft Bill Gates untuk menjadi orang terkaya kedua. Pada Januari 2021, Musk, dengan 
+    kekayaan bersih $ 185 miliar, melampaui pendiri Amazon Jeff Bezos untuk menjadi orang terkaya di dunia. Bezos merebut kembali posisi 
+    teratas pada bulan berikutnya. Pada 27 September 2021, Forbes mengumumkan bahwa Musk memiliki kekayaan bersih lebih dari $200 miliar, 
+    dan merupakan orang terkaya di dunia, setelah saham Tesla melonjak. Pada November 2021, Musk menjadi orang pertama dengan kekayaan bersih 
+    lebih dari $300 miliar.Sekitar tiga perempat kekayaan Musk berasal dari Tesla. Musk tidak menerima gaji dari Tesla; dia setuju pada 2018 untuk rencana kompensasi 
+    dengan dewan yang mengikat pendapatan pribadinya dengan penilaian dan pendapatan Tesla. Kesepakatan itu menetapkan bahwa Musk hanya menerima
+    kompensasi jika Tesla mencapai nilai pasar tertentu. Itu adalah kesepakatan terbesar yang pernah dilakukan antara CEO dan Dalam penghargaan 
+    pertama, yang diberikan pada Mei 2020, ia memenuhi syarat untuk membeli 1,69 juta saham TSLA (sekitar 1% dari perusahaan) dengan harga di 
+    bawah pasar, yang bernilai sekitar $800 juta.Musk telah berulang kali menggambarkan dirinya sebagai "miskin uang", dan "mengaku tidak terlalu tertarik pada jebakan materi kekayaan". 
+    Pada 2012, Musk menandatangani The Giving Pledge dan, pada Mei 2020, Musk berjanji untuk "menjual hampir semua harta benda fisik. ".
+    Pada tahun 2021, Musk membela kekayaannya dengan mengatakan dia "mengumpulkan sumber daya untuk membantu membuat kehidupan multiplanet 
+    memperluas cahaya kesadaran ke bintang-bintang". Pada awal 2000-an, Musk adalah seorang pilot pribadi, pesawat favoritnya kemudian menjadi
+    L- 39 Albatros, meskipun memutuskan untuk berhenti melakukan uji coba pada tahun 2008. Dia menggunakan jet pribadi milik SpaceX dan 
+    mengakuisisi jet kedua pada Agustus 2020. Penggunaan bahan bakar fosil yang berat—terbang lebih dari 150.000 mil pada 2018—telah 
+    menerima kritik. ProPublica, Musk tidak membayar pajak penghasilan federal pada tahun 2018.
+    </descriptions:wealth>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/Bernard_Arnault">
+    <features:Name>Bernard Arnault</features:Name>
+    <features:Umur>72</features:Umur>
+    <features:kekayaan>150B</features:kekayaan>
+    <features:Negara_Tinggal>France</features:Negara_Tinggal>
+    <features:img>
+         https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg/800px-Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg
+    </features:img>
+    <descriptions:awal_hidup>Bernard Jean tienne Arnault lahir pada 5 Maret 1949, di Roubaix, Prancis. Ibunya, Marie-Josèphe Savinel, putri 
+    tienne Savinel, memiliki "ketertarikan pada Dior". Ayahnya, pabrikan Jean Léon Arnault, lulusan cole Centrale Paris, memiliki 
+    perusahaan teknik sipil Ferret-Savinel.Arnault menempuh pendidikan di Lycée Maxence Van Der Meersch di Roubaix, dan Lycée Faidherbe di Lille. Pada tahun 1971, ia lulus dari 
+    cole Polytechnique, sekolah teknik terkemuka di Prancis, dan mulai bekerja untuk perusahaan ayahnya. Tiga tahun kemudian, setelah ia
+    meyakinkan ayahnya untuk mengalihkan fokus perusahaan ke real estate, Ferret-Savinel menjual divisi konstruksi industri dan berganti 
+    nama menjadi Ferinel. Setelah akuisisi perusahaan tekstil dan relokasi kantor pusat mereka, perusahaan mengganti nama cabang real estat 
+    menjadi George V Group. Aset real estat kemudian dijual ke Compagnie Générale des Eaux (CGE), akhirnya menjadi Nexity.
+    </descriptions:awal_hidup>
+    <descriptions:wealth>
+    Pada April 1999, ia menjadi orang terkaya dalam mode, melampaui Amancio Ortega dari Zara. Pada Juli 2019, Arnault menjadi orang 
+    terkaya kedua di dunia, dengan kekayaan bersih 103 miliar dolar. Arnault secara singkat melampaui Jeff Bezos untuk menjadi orang 
+    terkaya di dunia pada Desember 2019, dan sekali lagi untuk waktu yang singkat pada Januari 2020. Selama pandemi COVID-19, Arnault 
+    melihat kekayaannya menyusut 30 miliar dolar karena penjualan barang-barang mewah anjlok. Pada 5 Agustus 2021, ia mendapatkan kembali 
+    kekayaannya. status orang terkaya di dunia, dengan kekayaan bersihnya naik menjadi $ 198,4 miliar. Ini terjadi karena penjualan barang 
+    mewah LVMH melonjak di Cina dan bagian lain Asia. Forbes memperkirakan kekayaannya menjadi $ 181 miliar.Arnault memiliki kapal penelitian Amadeus yang dikonversi 70 m (230 kaki), yang dijual pada akhir tahun 2015. Kapal pesiar Symphony 
+    miliknya yang sekarang berukuran 101,5 m (333 kaki) dibangun di Belanda oleh Feadship.
+    </descriptions:wealth>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/Bill_Gates">
+    <features:Name>Bill Gates</features:Name>
+    <features:Umur>65</features:Umur>
+    <features:kekayaan>124B</features:kekayaan>
+    <features:Negara_Tinggal>United States</features:Negara_Tinggal>
+    <features:img>
+         https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg
+    </features:img>
+    <descriptions:awal_hidup>Bill Gates lahir di Seattle, Washington pada 28 Oktober 1955. Ia adalah putra dari William H. Gates Sr. (1925/2020) 
+    dan Mary Maxwell Gates (1929/1994). Leluhurnya termasuk Inggris, Jerman, dan Irlandia/ Skotlandia-Irlandia. Ayahnya 
+    adalah seorang pengacara terkemuka, dan ibunya menjabat di dewan direksi First Interstate BancSystem dan United Way of 
+    America. Kakek dari pihak ibu Gates adalah J. W. Maxwell, seorang presiden bank nasional. Gates memiliki kakak perempuan 
+    Kristi (Kristianne) dan adik perempuan Libby. Dia adalah yang keempat dari namanya di keluarganya tetapi dikenal sebagai 
+    William Gates III atau "Trey" (yaitu, tiga) karena ayahnya memiliki akhiran "II". Keluarga itu tinggal di daerah Sand Point 
+    Seattle di sebuah rumah yang rusak oleh tornado langka ketika Gates berusia tujuh tahun.Di awal hidupnya, Gates mengamati bahwa orang tuanya ingin dia mengejar karir hukum. Ketika dia masih muda, 
+    keluarganya secara teratur menghadiri gereja Gereja Kristen Kongregasi, sebuah denominasi Protestan Reformed. 
+    Gates kecil untuk usianya dan diintimidasi sebagai seorang anak. Keluarga mendorong kompetisi; salah satu pengunjung 
+    melaporkan bahwa "tidak peduli apakah itu hati atau pickleball atau berenang ke dermaga; selalu ada hadiah untuk menang 
+    dan selalu ada hukuman untuk kalah".Pada usia 13, ia mendaftar di sekolah persiapan Lakeside swasta, di mana ia menulis program perangkat lunak pertamanya. 
+    Ketika ia berada di kelas delapan, Klub Ibu di sekolah tersebut menggunakan hasil dari penjualan barang bekas Lakeside 
+    School untuk membeli terminal ASR Teletype Model 33 dan satu blok waktu komputer di komputer General Electric (GE) untuk 
+    siswa. Gates tertarik untuk memprogram sistem GE di BASIC, dan dia dikeluarkan dari kelas matematika untuk mengejar minatnya. 
+    Dia menulis program komputer pertamanya di mesin ini, sebuah implementasi dari tic-tac-toe yang memungkinkan pengguna untuk 
+    bermain game melawan komputer. Gates terpesona oleh mesin dan bagaimana mesin itu akan selalu mengeksekusi kode perangkat 
+    lunak dengan sempurna. Setelah sumbangan Mothers Club habis, Gates dan siswa lainnya mencari waktu untuk sistem termasuk 
+    komputer mini DEC PDP. Salah satu sistem ini adalah PDP-10 milik Computer Center Corporation (CCC) yang melarang Gates, 
+    Paul Allen, Ric Weiland, dan sahabat sekaligus mitra bisnis pertama Gates, Kent Evans, selama musim panas setelah ketahuan 
+    mengeksploitasi bug dalam operasi. sistem untuk mendapatkan waktu komputer gratis.Keempat siswa membentuk Lakeside Programmers Club untuk menghasilkan uang. Di akhir larangan, mereka menawarkan untuk 
+    menemukan bug dalam perangkat lunak CCC dengan imbalan waktu komputer tambahan. Daripada menggunakan sistem dari jarak 
+    jauh melalui Teletype, Gates pergi ke kantor CCC dan mempelajari kode sumber untuk berbagai program yang berjalan di 
+    sistem, termasuk Fortran, Lisp, dan bahasa mesin. Perjanjian dengan CCC berlanjut hingga tahun 1970 ketika perusahaan 
+    tersebut gulung tikar.Tahun berikutnya, seorang guru Lakeside meminta Gates dan Evans untuk mengotomatisasi sistem penjadwalan kelas sekolah, memberi mereka
+    waktu komputer dan royalti sebagai imbalannya. Duo ini bekerja dengan rajin untuk menyiapkan program untuk tahun senior mereka. 
+    Menjelang akhir tahun pertama mereka, Evans tewas dalam kecelakaan mendaki gunung, yang digambarkan Gates sebagai salah satu hari 
+    paling menyedihkan dalam hidupnya. Gates kemudian menoleh ke Allen yang membantunya menyelesaikan sistem untuk Lakeside.Pada usia 17, Gates membentuk usaha dengan Allen yang disebut Traf-O-Data untuk membuat penghitung lalu lintas berdasarkan prosesor 
+    Intel 8008. Pada tahun 1972, ia menjabat sebagai halaman kongres di DPR. Dia adalah Sarjana Merit Nasional ketika dia lulus dari 
+    Lakeside School pada tahun 1973. Dia mendapat skor 1590 dari 1600 di Scholastic Aptitude Tests (SAT) dan terdaftar di Harvard College 
+    pada musim gugur 1973. Dia memilih jurusan pra-hukum tetapi mengambil matematika dan kursus ilmu komputer tingkat pascasarjana. Saat
+    di Harvard, ia bertemu dengan sesama mahasiswa Steve Ballmer. Gates meninggalkan Harvard setelah dua tahun sementara Ballmer tinggal 
+    dan lulus magna cum laude. Bertahun-tahun kemudian, Ballmer menggantikan Gates sebagai CEO Microsoft dan mempertahankan posisi itu dari
+    tahun 2000 hingga pengunduran dirinya pada tahun 2014.Gates merancang algoritma untuk menyortir pancake sebagai solusi untuk salah satu dari serangkaian masalah yang belum terpecahkan 
+    yang disajikan di kelas kombinatorik oleh profesor Harry Lewis. Solusinya memegang rekor sebagai versi tercepat selama lebih dari 
+    30 tahun, dan penggantinya lebih cepat hanya 2%. Solusinya diresmikan dan diterbitkan bekerja sama dengan ilmuwan komputer Harvard
+    Christos Papadimitriou.Gates tetap berhubungan dengan Paul Allen dan bergabung dengannya di Honeywell selama musim panas 1974. Pada tahun 1975, MITS 
+    Altair 8800 dirilis berdasarkan CPU Intel 8080, dan Gates dan Allen melihat peluang untuk memulai perusahaan perangkat lunak 
+    komputer mereka sendiri. Gates drop out dari Harvard pada tahun yang sama. Orang tuanya mendukungnya setelah melihat betapa dia
+    ingin memulai perusahaannya sendiri. Dia menjelaskan keputusannya untuk meninggalkan Harvard: "jika semuanya tidak berhasil,
+    saya selalu dapat kembali ke sekolah. Saya secara resmi cuti."
+    </descriptions:awal_hidup>
+    <descriptions:wealth>
+    Pada tahun 1999, kekayaannya secara singkat melampaui US$101 miliar. Sejak tahun 2000, nilai nominal kepemilikan Microsoft-nya 
+    telah menurun karena jatuhnya harga saham Microsoft setelah gelembung dot-com meledak dan sumbangan multi-miliar dolar yang dia 
+    berikan kepada perusahaannya. yayasan amal. Pada bulan Mei 2006, Gates mengatakan bahwa dia berharap bahwa dia bukan orang terkaya 
+    di dunia karena dia tidak menyukai perhatian yang dibawanya. Pada bulan Maret 2010, Gates adalah orang terkaya kedua setelah Carlos
+    Slim, tetapi mendapatkan kembali posisi teratas pada tahun 2013, menurut ke Daftar Miliarder Bloomberg. Slim merebut kembali posisi 
+    itu pada Juni 2014 (tetapi kemudian kehilangan posisi teratas kembali ke Gates). Antara 2009 dan 2014, kekayaannya berlipat ganda
+    dari US$40 miliar menjadi lebih dari US$82 miliar. Pada Oktober 2017, Gates dilampaui oleh pendiri Amazon Jeff Bezos sebagai orang
+    terkaya di dunia. Pada 15 November 2019, ia kembali menjadi orang terkaya di dunia setelah peningkatan 48% saham Microsoft,
+    melampaui Bezos. Gates mengatakan kepada BBC, "Saya telah membayar pajak lebih banyak daripada individu mana pun, dan dengan 
+    senang hati ... saya telah membayar pajak lebih dari $6 miliar." Dia adalah pendukung pajak yang lebih tinggi, terutama untuk orang kaya.
+     Gates telah memegang posisi teratas dalam daftar Miliarder Dunia selama 18 dari 23 tahun terakhir. Gates memiliki beberapa investasi 
+    di luar Microsoft, yang pada tahun 2006 memberinya gaji sebesar US$616.667 dan bonus US$350.000 dengan total US$966.667. Pada tahun 
+    1989, ia mendirikan Corbis, sebuah perusahaan pencitraan digital. Pada tahun 2004, ia menjadi direktur Berkshire Hathaway, perusahaan 
+    investasi yang dipimpin oleh teman lama Warren Buffett.Pada tahun 1987, Gates terdaftar sebagai miliarder dalam edisi 400 Orang Terkaya di Amerika majalah Forbes, senilai $ 1,25 miliar 
+    pada saat itu, dan merupakan miliarder termuda di dunia. Sejak 1987, Gates telah dimasukkan dalam daftar Forbes The World's 
+    Billionaires dan merupakan orang terkaya dari 1995 hingga 1996, 1998 hingga 2007, 2009, dan memegang posisi itu hingga 2018 sebelum
+    disusul oleh Jeff Bezos. Gates adalah nomor satu dalam daftar Forbes 400 dari 1993 hingga 2007, 2009, dan 2014 hingga 2017.
+    </descriptions:wealth>
+    </rdf:Description>
+   
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/Mark_Zuckerberg">
+    <features:Name>Mark Zuckerberg</features:Name>
+    <features:Umur>36</features:Umur>
+    <features:kekayaan>97B</features:kekayaan>
+    <features:Negara_Tinggal>United States</features:Negara_Tinggal>
+    <features:img>
+         https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/800px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg
+    </features:img>
+    <descriptions:awal_hidup>ark Elliot Zuckerberg lahir di White Plains, New York, pada 14 Mei 1984, putra dari psikiater Karen (née Kempner) dan dokter gigi 
+    Edward Zuckerberg. Dia dan tiga saudara perempuannya (Arielle, pengusaha Randi, dan penulis Donna) dibesarkan dalam rumah tangga 
+    Yahudi Reformasi di Dobbs Ferry, New York. Kakek buyutnya adalah emigran Yahudi dari Austria, Jerman, dan Polandia. 
+    Dia memiliki bar mitzvah bertema Star Wars ketika dia berusia 13 tahun. Dia unggul secara akademis di Ardsley High School di 
+    Ardsley, New York. Setelah dua tahun, ia dipindahkan ke Akademi Phillips Exeter swasta dan memenangkan hadiah dalam astronomi,
+    studi klasik, matematika, dan fisika. Di masa mudanya, ia juga menghadiri perkemahan musim panas Pusat Pemuda Berbakat Universitas 
+    Johns Hopkins. Pada aplikasi kuliahnya, dia menyatakan bahwa dia bisa membaca dan menulis bahasa Yunani Kuno, Prancis, Ibrani, dan
+    Latin. Dia adalah kapten tim anggar.M
+    </descriptions:awal_hidup>
+    <descriptions:wealth>
+    Mayoritas kekayaan Zuckerberg berasal dari 13% saham di Meta Platforms, sebelumnya Facebook, menurut laporan perusahaan.
+    pernyataan proksi 2021.Jejaring sosial terbesar di dunia memiliki 2,8 miliar pengguna aktif bulanan, menurut presentasi perusahaan Januari 2021.
+    Facebook menjual saham dalam penawaran umum perdana pada 17 Mei 2012 yang merupakan IPO teknologi terbesar dalam sejarah pada saat itu.
+    Dia memiliki saham melalui serangkaian perwalian dan perusahaan induk, menurut proxy.  Zuckerberg berencana untuk memberikan 99% saham Facebook-nya selama hidupnya, menurut pengajuan SEC Desember 2015. Dia mulai
+    menjual saham pada Agustus 2016 untuk mendanai filantropi ini dan dalam perhitungan Bloomberg dia tidak dikreditkan dengan nilai apa pun
+    hasil penjualan yang mendanai pekerjaan amal. Dia masih dikreditkan dengan saham yang dia rencanakan untuk diberikan karena dia masih memilikinya.
+    Dia mengatakan dia berencana menjual 35 hingga 75 juta saham Facebook antara September 2017 dan Maret 2019, menurut sebuah pengajuan.Nilai investasi tunainya didasarkan pada analisis transaksi orang dalam -- sebagian besar penjualan saham Facebook dinilai
+    oleh analisis data Bloomberg dan pengajuan perusahaan -- serta pajak, pembelian properti, pemberian filantropi, dan kinerja pasar.
+    </descriptions:wealth>
+    </rdf:Description>
+
+
+<rdf:Description rdf:about="http://www.librarydemundo.com/animals">
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/beruang"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/lebah_madu"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/hydra"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/landak_laut"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/semut"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/rusa"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/ular"/>
+</rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/beruang">
+    <features:Nama>Beruang Cokelat</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Chordata</dc:Filum>
+    <dc:Kelas>Mamalia</dc:Kelas>
+    <dc:Ordo>Karnivora</dc:Ordo>
+    <dc:Famili>Ursidae</dc:Famili>
+    <dc:Genus>Ursus</dc:Genus>
+    <dc:Spesies>Ursus arctos</dc:Spesies>
+    <descriptions:overall>
+    Beruang coklat adalah yang paling bervariasi dalam ukuran beruang modern. Ukuran tipikal tergantung dari populasi mana, dan subtipe yang paling diterima sangat bervariasi ukurannya. Ini sebagian karena dimorfisme seksual, karena beruang coklat jantan rata-rata setidaknya 30% lebih besar di sebagian besar subtipe. Beruang individu juga bervariasi dalam ukuran musiman, beratnya paling sedikit di musim semi karena kurangnya mencari makan selama hibernasi, dan paling banyak di akhir musim gugur, setelah periode hyperphagia untuk menambah berat badan untuk mempersiapkan hibernasi. Oleh karena itu, seekor beruang mungkin perlu ditimbang pada musim semi dan musim gugur untuk mendapatkan gambaran tentang berat tahunan rata-ratanya.
+    </descriptions:overall>
+    <descriptions:habitat>
+    Beruang coklat dulunya berasal dari Eropa, sebagian besar Asia, Pegunungan Atlas Afrika, dan Amerika Utara, tetapi sekarang punah di beberapa daerah, dan populasi mereka telah sangat menurun di daerah lain. Ada sekitar 200.000 beruang coklat yang tersisa di dunia. Populasi terbesar ada di Rusia dengan 120.000, Amerika Serikat dengan 32.500, dan Kanada dengan sekitar 25.000. Beruang coklat hidup di Alaska, timur melalui Yukon dan Wilayah Barat Laut, selatan melalui British Columbia dan melalui bagian barat Alberta. Populasi Alaska diperkirakan mencapai 32.000 individu yang sehat.[80] Di 48 negara bagian yang lebih rendah, mereka berpopulasi kembali secara perlahan, tetapi pasti di sepanjang Pegunungan Rocky dan Great Plains bagian barat.
+
+    Di Eropa, ada 14.000 beruang coklat dalam sepuluh populasi yang terfragmentasi, dari Spanyol (diperkirakan hanya 20/25 hewan di Pyrenees pada 2010, dalam kisaran yang sama antara Spanyol, Prancis dan Andorra, dan sekitar 210 hewan di Asturias, Cantabria, Galicia dan León, di Picos de Europa dan daerah sekitarnya pada tahun 2013[83]) di barat, ke Rusia di timur, dan dari Swedia dan Finlandia di utara ke Rumania (5000/6000), Bulgaria (900/1200), Slovakia (dengan sekitar 600-800 hewan), Slovenia (500-700 hewan) dan Yunani (dengan sekitar 200 hewan) di selatan.
+
+    Di Asia, beruang coklat ditemukan terutama di seluruh Rusia, kemudian lebih sering ke barat daya ke bagian Timur Tengah, termasuk hampir semua bagian Kurdistan, ke selatan sejauh barat daya Iran, dan ke tenggara di daerah kecil Cina Timur Laut, Barat Cina, Kirgistan, dan sebagian Korea Utara, Pakistan, Afghanistan, dan India. Mereka juga dapat ditemukan di pulau Hokkaido Jepang, yang memiliki jumlah beruang coklat non-Rusia terbesar di Asia timur dengan sekitar 2.000/3.000 hewan.
+
+    Spesies ini mendiami habitat terluas dari semua spesies beruang yang hidup. Mereka tampaknya tidak memiliki preferensi ketinggian dan telah dicatat dari permukaan laut hingga ketinggian 5.000 m (16.000 kaki) (yang terakhir di Himalaya). kisaran, beruang coklat umumnya tampaknya lebih memilih negara semi-terbuka, dengan hamburan vegetasi yang memungkinkan mereka tempat istirahat di siang hari. Namun, mereka telah tercatat menghuni setiap jenis hutan beriklim utara yang diketahui ada.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1920px-2010-kodiak-bear-1.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/lebah_madu">
+    <features:Nama>Lebah Madu</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Arthropoda</dc:Filum>
+    <dc:Kelas>Insecta</dc:Kelas>
+    <dc:Ordo>Hymenoptera</dc:Ordo>
+    <dc:Famili>Apidae</dc:Famili>
+    <descriptions:overall>
+    Lebah madu mencakup sekitar tujuh spesies lebah dalam genus Apis, dari sekitar 20.000 spesies yang ada. Saat ini dikenal sekitar 44 subspesies yang mana mereka memproduksi dan menyimpan madu yang dihasilkan dari nektar bunga.Selain itu mereka juga membuat sarang dari malam, yang dihasilkan oleh para lebah pekerja di koloni lebah madu.
+
+    Lebah madu yang ada di alam Indonesia adalah A. andreniformis, A. cerana dan A. dorsata, serta khusus di Kalimantan terdapat A. koschevnikovi.
+    </descriptions:overall>
+    <descriptions:habitat>
+    A. andreniformis, lebah madu kerdil hitam, berasal dari habitat hutan di Asia Tenggara. A. dorsata, lebah madu raksasa, juga hidup di Asia Tenggara dan terkadang membuat jengger dengan diameter hampir tiga meter (lebih dari sembilan kaki). A. cerana, lebah madu Timur, berasal dari Asia selatan dan tenggara, di mana ia telah didomestikasi di beberapa daerah. Lebah ini sangat erat hubungannya dengan A. koschevnikovi, atau lebah Koschevnikov, yang hanya ditemukan di Kalimantan dan beberapa pulau lain di Asia Tenggara dan di Semenanjung Malaya. A. nigrocincta adalah tanaman asli Indonesia dan pulau Mindanao di Filipina. Ada juga sejumlah subspesies dan galur Apis.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/8/8e/Bees-wings.web.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/hydra">
+    <features:Nama>Hydra</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Cnidaria</dc:Filum>
+    <dc:Kelas>Hydrozoa</dc:Kelas>
+    <dc:Ordo>Anthomedusae</dc:Ordo>
+    <dc:Famili>Hydridae</dc:Famili>
+    <dc:Genus>Hydra</dc:Genus>
+    <dc:Spesies>Ursus americana</dc:Spesies>
+    <descriptions:overall>
+    Hydra memiliki tubuh berbentuk tabung, simetri radial hingga panjang 10 mm (0,39 inci) saat diperpanjang, diamankan dengan kaki perekat sederhana yang dikenal sebagai cakram basal. Sel-sel kelenjar di cakram basal mengeluarkan cairan lengket yang menjelaskan sifat perekatnya.
+
+Di ujung tubuh yang bebas adalah lubang mulut yang dikelilingi oleh satu hingga dua belas tentakel bergerak yang tipis. Setiap tentakel, atau cnida (jamak: cnidae), dilapisi dengan sel penyengat yang sangat khusus yang disebut cnidocytes. Knidosit mengandung struktur khusus yang disebut nematocysts, yang terlihat seperti bola lampu mini dengan benang melingkar di dalamnya. Di tepi luar knidosit yang sempit terdapat rambut pemicu pendek yang disebut knidosil. Setelah kontak dengan mangsa, isi nematocyst akan meledak, menembakkan benang seperti anak panah yang mengandung neurotoksin ke apapun yang memicu pelepasan. Ini dapat melumpuhkan mangsanya, terutama jika ratusan nematocysts ditembakkan.
+
+Hydra memiliki dua lapisan tubuh utama, yang membuatnya "diploblastik". Lapisan dipisahkan oleh mesoglea, zat seperti gel. Lapisan luar adalah epidermis, dan lapisan dalam disebut gastrodermis, karena melapisi perut. Sel-sel yang membentuk kedua lapisan tubuh ini relatif sederhana. Hydramacin adalah bakterisida yang baru-baru ini ditemukan di Hydra; melindungi lapisan luar terhadap infeksi. Hydra tunggal terdiri dari 50.000 hingga 100.000 sel yang terdiri dari tiga populasi sel induk spesifik yang akan menciptakan banyak jenis sel yang berbeda. Sel punca ini akan terus memperbaharui diri di kolom tubuh. Hydra memiliki dua struktur penting di tubuhnya: "kepala" dan "kaki". Ketika Hydra dipotong menjadi dua, masing-masing setengah akan beregenerasi dan membentuk menjadi Hydra kecil; "kepala" akan meregenerasi "kaki" dan "kaki" akan melahirkan kembali "kepala". Jika Hydra diiris menjadi banyak segmen maka irisan tengah akan membentuk "kepala" dan "kaki".
+
+Respirasi dan ekskresi terjadi secara difusi ke seluruh permukaan epidermis, sedangkan ekskreta yang lebih besar dikeluarkan melalui mulut.
+    </descriptions:overall>
+    <descriptions:habitat>
+    Hydras terjadi di air tawar, baik di air mengalir atau berdiri. Mereka mentolerir berbagai kondisi dari kedalaman hingga 350 meter di danau, atau di aliran dangkal yang mengalir cepat. Mereka menempel pada permukaan padat seperti batu, ranting, atau tumbuh-tumbuhan. Mereka tidak terjadi pada permukaan yang lembut.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/2/25/Hydra-Foto.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/landak_laut">
+    <features:Nama>Landak Laut</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Echinodermata</dc:Filum>
+    <dc:Kelas>Echinoidea</dc:Kelas>
+    <descriptions:overall>
+    Ukuran bulu babi biasanya berkisar antara 3 hingga 10 cm (1 hingga 4 inci), meskipun spesies terbesar dapat mencapai hingga 36 cm (14 inci). Mereka memiliki tubuh yang kaku dan biasanya berbentuk bola dengan duri yang dapat digerakkan, yang memberi nama kelas tersebut. Echinoidea (dari bahasa Yunani ekhinos 'tulang belakang'). Nama landak adalah kata lama untuk landak, yang mirip dengan bulu babi; mereka secara kuno disebut landak laut. Nama ini berasal dari bahasa Prancis Kuno herichun, dari bahasa Latin ericius ('landak').
+
+Seperti echinodermata lainnya, larva awal bulu babi memiliki simetri bilateral, tetapi mereka mengembangkan simetri lima kali lipat saat dewasa. Hal ini paling jelas terlihat pada bulu babi "biasa", yang memiliki tubuh kira-kira bulat dengan lima bagian berukuran sama yang memancar keluar dari sumbu pusatnya. Mulut berada di dasar hewan dan anus di atas; permukaan bawah digambarkan sebagai "oral" dan permukaan atas sebagai "aboral".
+
+Beberapa bulu babi, bagaimanapun, termasuk dolar pasir, berbentuk oval, dengan ujung depan dan belakang yang berbeda, memberi mereka tingkat simetri bilateral. Pada bulu babi ini, permukaan tubuh bagian atas sedikit berkubah, tetapi bagian bawahnya rata, sedangkan bagian sampingnya tidak memiliki kaki tabung. Bentuk tubuh "tidak teratur" ini telah berevolusi untuk memungkinkan hewan menggali melalui pasir atau bahan lunak lainnya.
+    </descriptions:overall>
+    <descriptions:habitat>
+    Bulu babi hanya hidup di laut dan tidak dapat bertahan hidup di air tawar. Mereka ditemukan dari intertidal ke laut dalam. Spesies yang kemungkinan besar akan kami gunakan di lab berasal dari intertidal atau subtidal dangkal.
+    </descriptions:habitat>
+    <features:img>
+    https://www.worldatlas.com/r/w960-q80/upload/b3/92/a4/shutterstock-342592523.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/semut">
+    <features:Nama>Semut</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Arthropoda</dc:Filum>
+    <dc:Kelas>Insecta</dc:Kelas>
+    <dc:Ordo>Hymenoptera</dc:Ordo>
+    <dc:Famili>Formicidae</dc:Famili>
+    <descriptions:overall>
+Semut adalah serangga eusosial dari keluarga Formicidae dan, bersama dengan tawon dan lebah terkait, termasuk dalam ordo Hymenoptera. Semut muncul dalam catatan fosil di seluruh dunia dalam keragaman yang cukup besar selama Kapur Awal terbaru dan Kapur Akhir awal, menunjukkan asal mula yang lebih awal. Semut berevolusi dari nenek moyang tawon vespoid pada periode Kapur, dan terdiversifikasi setelah munculnya tanaman berbunga. Lebih dari 13.800 dari total perkiraan 22.000 spesies telah diklasifikasikan. Mereka mudah diidentifikasi dengan antena geniculate (bersiku) dan struktur seperti simpul khas yang membentuk pinggang ramping mereka.
+
+Semut membentuk koloni yang ukurannya berkisar dari beberapa lusin individu pemangsa yang hidup di rongga alami kecil hingga koloni yang sangat terorganisir yang dapat menempati wilayah besar dan terdiri dari jutaan individu. Koloni yang lebih besar terdiri dari berbagai kasta betina yang steril dan tidak bersayap, yang sebagian besar adalah pekerja (ergate), serta tentara (dinergate) dan kelompok khusus lainnya. Hampir semua koloni semut juga memiliki beberapa jantan subur yang disebut "drone" dan satu atau lebih betina subur yang disebut "ratu" (gynes). Koloni digambarkan sebagai superorganisme karena semut tampaknya beroperasi sebagai entitas yang bersatu, secara kolektif bekerja sama untuk mendukung koloni. 
+    </descriptions:overall>
+    <descriptions:habitat>
+    Kebanyakan semut hidup di sarang, yang mungkin terletak di tanah atau di bawah batu atau dibangun di atas tanah dan terbuat dari ranting, pasir, atau kerikil. Semut tukang kayu (Camponotus) adalah semut hitam besar yang umum di Amerika Utara yang hidup di kayu gelondongan dan kayu tua. Beberapa spesies hidup di pohon atau di batang gulma yang berlubang.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fire_ants_01.jpg/800px-Fire_ants_01.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/rusa">
+    <features:Nama>Rusa</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Chordata</dc:Filum>
+    <dc:Kelas>Mamalia</dc:Kelas>
+    <dc:Ordo>Artiodactyla</dc:Ordo>
+    <dc:Famili>Cervidae</dc:Famili>
+    <descriptions:overall>
+Rusa atau kijang sejati adalah mamalia ruminansia berkuku yang membentuk famili Cervidae. Dua kelompok utama rusa adalah Cervinae, termasuk muntjac, elk (wapiti), red deer, dan fallow deer; dan Capreolinae, termasuk rusa kutub (karibou), rusa berekor putih, rusa roe, dan rusa besar. Rusa jantan dari semua spesies (kecuali rusa air Cina) serta rusa betina, tumbuh dan melepaskan tanduk baru setiap tahun. Dalam hal ini mereka berbeda dari kijang bertanduk permanen, yang merupakan bagian dari keluarga yang berbeda (Bovidae) dalam urutan yang sama dari ungulata berujung genap (Artiodactyla).
+
+Rusa kesturi (Moschidae) dari Asia dan chevrotain (Tragulidae) dari hutan tropis Afrika dan Asia adalah famili terpisah yang juga termasuk dalam klad ruminansia Ruminantia; mereka tidak terkait erat dengan Cervidae.
+
+Rusa muncul dalam seni dari lukisan gua Paleolitik dan seterusnya, dan mereka telah memainkan peran dalam mitologi, agama, dan sastra sepanjang sejarah, serta dalam lambang, seperti rusa merah yang muncul di lambang land. Kepentingan ekonomi mereka termasuk penggunaan daging mereka sebagai daging rusa, kulit mereka sebagai kulit rusa yang lembut dan kuat, dan tanduk mereka sebagai pegangan pisau. Perburuan rusa telah menjadi kegiatan yang populer setidaknya sejak Abad Pertengahan dan tetap menjadi sumber daya bagi banyak keluarga saat ini. 
+    </descriptions:overall>
+    <descriptions:habitat>
+    Rusa ditemukan di banyak ekosistem yang berbeda. Mereka hidup di lahan basah, hutan gugur, padang rumput, hutan hujan, semak belukar kering dan pegunungan.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Chital_%288458215435%29.jpg/220px-Chital_%288458215435%29.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/ular">
+    <features:Nama>Ular</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Chordata</dc:Filum>
+    <dc:Kelas>Reptilia</dc:Kelas>
+    <dc:Ordo>Squamata</dc:Ordo>
+    <descriptions:overall>
+    Ciri-ciri utama ular adalah bertubuh panjang dan tidak memiliki kaki. Akan tetapi, ciri-ciri tersebut juga dimiliki oleh beberapa jenis kadal, misalnya (kadal-pensil Burton). Ciri-ciri selanjutnya adalah ular tidak memiliki indera pendengaran sama sekali. Akan tetapi, ular bisa merasakan getaran melalui rahang bawahnya saat menempel di tanah atau di permukaan. Ular tidak memiliki kelopak mata yang dapat di buka-tutup, dan matanya selalu terbuka selama hidupnya. Walaupun begitu, mata ular dilapisi oleh sisik bening yang melindunginya dari kotoran. Ciri utama lainnya adalah, lidah ular bercabang dua dengan masing-masing cabangnya berukuran panjang dan runcing, dan dapat dijulurkan ke luar melalui rongga di tengah bibirnya. Dengan kata lain, ular dapat menjulurkan lidahnya dalam keadaan mulut tertutup rapat. Ular menjulurkan lidahnya untuk mendeteksi bau di udara, sementara hidung ular hanya digunakan untuk bernafas. Setiap cabang lidah ular dilengkapi dengan kelenjar yang dapat menangkap partikel bau di udara, lalu ular akan menarik lidahnya kembali ke mulut. Selanjutnya, partikel-partikel bau yang menempel di lidahnya itu disalurkan ke sebuah organ pengenal bau yang terletak di langit-langit rahang atasnya. Organ tersebut disebut Organ Jacobson. Setelah diidentifikasi, organ tersebut mengirimkan informasi ke otak ular. Otak akan memprosesnya dan menentukan hal selanjutnya yang akan dilakukan oleh ular, berdasarkan hasil identifikasi bau tersebut, misalnya memburu sumber bau yang berupa mangsanya. Beberapa jenis ular memiliki organ khusus untuk mengidentifikasi temperatur lingkungannya. Alat ini disebut Termoreseptor, dan berguna bagi ular untuk mengetahui dan melacak keberadaan hewan berdarah panas seperti burung dan mamalia. Organ ini dapat berupa sepasang lubang yang terletak di antara mata dan lubang hidung (misalnya pada ular-ular Crotalidae), atau berupa lapisan yang terletak di sela-sela sisik bibir atas (misalnya pada jenis-jenis Boidae dan Pythonidae).
+    </descriptions:overall>
+    <descriptions:habitat>
+    Ular merupakan salah satu reptilia yang paling sukses berkembang di dunia. dapat di semua tipe habitat: hutan, padang rumput, gurun/padang pasir, sungai, danau, dataran tinggi, perkebunan, persawahan, laut, dan juga di pemukiman manusia. Akan tetapi, seperti halnya reptilia lainnya, ular tidak terdapat dan tidak dapat ditemukan di daerah dingin seperti di puncak gunung dan di daerah lingkar kutub (beberapa spesies ada yang mampu hidup di daerah dekat kutub utara). Ular juga tidak terdapat dan tidak ditemukan di Irlandia, Selandia, Greenland, pulau-pulau baru di Pasifik seperti Hawaii, serta di Samudera Atlantik.
+
+sebagian besar hidup dan tinggal di tanah, sebagian lagi hidup dan tinggal di atas pohon atau tanaman. Walau begitu, sebagian besar spesies ular di tanah dapat memanjat pohon. Selain di tanah dan pohon, ular juga hidup di perairan, bahkan ada beberapa jenis ular yang hidup di udara dan tidak pernah berkelana di darat samasekali, misalnya ular jenis Hydrophiidae.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dendre_pict_080410-6980_tdp.jpg/800px-Dendre_pict_080410-6980_tdp.jpg
+    </features:img>
+    </rdf:Description>
+</rdf:RDF>
