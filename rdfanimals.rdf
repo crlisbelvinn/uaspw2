@@ -1,0 +1,169 @@
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:features="http://www.librarydemundo.com/features#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:descriptions="http://www.librarydemundo.com/descriptions#">
+
+<rdf:Description rdf:about="http://www.librarydemundo.com/animals">
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/beruang"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/lebah_madu"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/hydra"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/landak_laut"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/semut"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/rusa"/>
+    <dc:animal rdf:resource="http://www.librarydemundo.com/features/ular"/>
+</rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/beruang">
+    <features:Nama>Beruang Cokelat</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Chordata</dc:Filum>
+    <dc:Kelas>Mamalia</dc:Kelas>
+    <dc:Ordo>Karnivora</dc:Ordo>
+    <dc:Famili>Ursidae</dc:Famili>
+    <dc:Genus>Ursus</dc:Genus>
+    <dc:Spesies>Ursus arctos</dc:Spesies>
+    <descriptions:overall>
+    Beruang coklat adalah yang paling bervariasi dalam ukuran beruang modern. Ukuran tipikal tergantung dari populasi mana, dan subtipe yang paling diterima sangat bervariasi ukurannya. Ini sebagian karena dimorfisme seksual, karena beruang coklat jantan rata-rata setidaknya 30% lebih besar di sebagian besar subtipe. Beruang individu juga bervariasi dalam ukuran musiman, beratnya paling sedikit di musim semi karena kurangnya mencari makan selama hibernasi, dan paling banyak di akhir musim gugur, setelah periode hyperphagia untuk menambah berat badan untuk mempersiapkan hibernasi. Oleh karena itu, seekor beruang mungkin perlu ditimbang pada musim semi dan musim gugur untuk mendapatkan gambaran tentang berat tahunan rata-ratanya.
+    </descriptions:overall>
+    <descriptions:habitat>
+    Beruang coklat dulunya berasal dari Eropa, sebagian besar Asia, Pegunungan Atlas Afrika, dan Amerika Utara, tetapi sekarang punah di beberapa daerah, dan populasi mereka telah sangat menurun di daerah lain. Ada sekitar 200.000 beruang coklat yang tersisa di dunia. Populasi terbesar ada di Rusia dengan 120.000, Amerika Serikat dengan 32.500, dan Kanada dengan sekitar 25.000. Beruang coklat hidup di Alaska, timur melalui Yukon dan Wilayah Barat Laut, selatan melalui British Columbia dan melalui bagian barat Alberta. Populasi Alaska diperkirakan mencapai 32.000 individu yang sehat.[80] Di 48 negara bagian yang lebih rendah, mereka berpopulasi kembali secara perlahan, tetapi pasti di sepanjang Pegunungan Rocky dan Great Plains bagian barat.
+
+    Di Eropa, ada 14.000 beruang coklat dalam sepuluh populasi yang terfragmentasi, dari Spanyol (diperkirakan hanya 20/25 hewan di Pyrenees pada 2010, dalam kisaran yang sama antara Spanyol, Prancis dan Andorra, dan sekitar 210 hewan di Asturias, Cantabria, Galicia dan León, di Picos de Europa dan daerah sekitarnya pada tahun 2013[83]) di barat, ke Rusia di timur, dan dari Swedia dan Finlandia di utara ke Rumania (5000/6000), Bulgaria (900/1200), Slovakia (dengan sekitar 600-800 hewan), Slovenia (500-700 hewan) dan Yunani (dengan sekitar 200 hewan) di selatan.
+
+    Di Asia, beruang coklat ditemukan terutama di seluruh Rusia, kemudian lebih sering ke barat daya ke bagian Timur Tengah, termasuk hampir semua bagian Kurdistan, ke selatan sejauh barat daya Iran, dan ke tenggara di daerah kecil Cina Timur Laut, Barat Cina, Kirgistan, dan sebagian Korea Utara, Pakistan, Afghanistan, dan India. Mereka juga dapat ditemukan di pulau Hokkaido Jepang, yang memiliki jumlah beruang coklat non-Rusia terbesar di Asia timur dengan sekitar 2.000/3.000 hewan.
+
+    Spesies ini mendiami habitat terluas dari semua spesies beruang yang hidup. Mereka tampaknya tidak memiliki preferensi ketinggian dan telah dicatat dari permukaan laut hingga ketinggian 5.000 m (16.000 kaki) (yang terakhir di Himalaya). kisaran, beruang coklat umumnya tampaknya lebih memilih negara semi-terbuka, dengan hamburan vegetasi yang memungkinkan mereka tempat istirahat di siang hari. Namun, mereka telah tercatat menghuni setiap jenis hutan beriklim utara yang diketahui ada.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1920px-2010-kodiak-bear-1.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/lebah_madu">
+    <features:Nama>Lebah Madu</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Arthropoda</dc:Filum>
+    <dc:Kelas>Insecta</dc:Kelas>
+    <dc:Ordo>Hymenoptera</dc:Ordo>
+    <dc:Famili>Apidae</dc:Famili>
+    <descriptions:overall>
+    Lebah madu mencakup sekitar tujuh spesies lebah dalam genus Apis, dari sekitar 20.000 spesies yang ada. Saat ini dikenal sekitar 44 subspesies yang mana mereka memproduksi dan menyimpan madu yang dihasilkan dari nektar bunga.Selain itu mereka juga membuat sarang dari malam, yang dihasilkan oleh para lebah pekerja di koloni lebah madu.
+
+    Lebah madu yang ada di alam Indonesia adalah A. andreniformis, A. cerana dan A. dorsata, serta khusus di Kalimantan terdapat A. koschevnikovi.
+    </descriptions:overall>
+    <descriptions:habitat>
+    A. andreniformis, lebah madu kerdil hitam, berasal dari habitat hutan di Asia Tenggara. A. dorsata, lebah madu raksasa, juga hidup di Asia Tenggara dan terkadang membuat jengger dengan diameter hampir tiga meter (lebih dari sembilan kaki). A. cerana, lebah madu Timur, berasal dari Asia selatan dan tenggara, di mana ia telah didomestikasi di beberapa daerah. Lebah ini sangat erat hubungannya dengan A. koschevnikovi, atau lebah Koschevnikov, yang hanya ditemukan di Kalimantan dan beberapa pulau lain di Asia Tenggara dan di Semenanjung Malaya. A. nigrocincta adalah tanaman asli Indonesia dan pulau Mindanao di Filipina. Ada juga sejumlah subspesies dan galur Apis.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/8/8e/Bees-wings.web.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/hydra">
+    <features:Nama>Hydra</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Cnidaria</dc:Filum>
+    <dc:Kelas>Hydrozoa</dc:Kelas>
+    <dc:Ordo>Anthomedusae</dc:Ordo>
+    <dc:Famili>Hydridae</dc:Famili>
+    <dc:Genus>Hydra</dc:Genus>
+    <dc:Spesies>Ursus americana</dc:Spesies>
+    <descriptions:overall>
+    Hydra memiliki tubuh berbentuk tabung, simetri radial hingga panjang 10 mm (0,39 inci) saat diperpanjang, diamankan dengan kaki perekat sederhana yang dikenal sebagai cakram basal. Sel-sel kelenjar di cakram basal mengeluarkan cairan lengket yang menjelaskan sifat perekatnya.
+
+Di ujung tubuh yang bebas adalah lubang mulut yang dikelilingi oleh satu hingga dua belas tentakel bergerak yang tipis. Setiap tentakel, atau cnida (jamak: cnidae), dilapisi dengan sel penyengat yang sangat khusus yang disebut cnidocytes. Knidosit mengandung struktur khusus yang disebut nematocysts, yang terlihat seperti bola lampu mini dengan benang melingkar di dalamnya. Di tepi luar knidosit yang sempit terdapat rambut pemicu pendek yang disebut knidosil. Setelah kontak dengan mangsa, isi nematocyst akan meledak, menembakkan benang seperti anak panah yang mengandung neurotoksin ke apapun yang memicu pelepasan. Ini dapat melumpuhkan mangsanya, terutama jika ratusan nematocysts ditembakkan.
+
+Hydra memiliki dua lapisan tubuh utama, yang membuatnya "diploblastik". Lapisan dipisahkan oleh mesoglea, zat seperti gel. Lapisan luar adalah epidermis, dan lapisan dalam disebut gastrodermis, karena melapisi perut. Sel-sel yang membentuk kedua lapisan tubuh ini relatif sederhana. Hydramacin adalah bakterisida yang baru-baru ini ditemukan di Hydra; melindungi lapisan luar terhadap infeksi. Hydra tunggal terdiri dari 50.000 hingga 100.000 sel yang terdiri dari tiga populasi sel induk spesifik yang akan menciptakan banyak jenis sel yang berbeda. Sel punca ini akan terus memperbaharui diri di kolom tubuh. Hydra memiliki dua struktur penting di tubuhnya: "kepala" dan "kaki". Ketika Hydra dipotong menjadi dua, masing-masing setengah akan beregenerasi dan membentuk menjadi Hydra kecil; "kepala" akan meregenerasi "kaki" dan "kaki" akan melahirkan kembali "kepala". Jika Hydra diiris menjadi banyak segmen maka irisan tengah akan membentuk "kepala" dan "kaki".
+
+Respirasi dan ekskresi terjadi secara difusi ke seluruh permukaan epidermis, sedangkan ekskreta yang lebih besar dikeluarkan melalui mulut.
+    </descriptions:overall>
+    <descriptions:habitat>
+    Hydras terjadi di air tawar, baik di air mengalir atau berdiri. Mereka mentolerir berbagai kondisi dari kedalaman hingga 350 meter di danau, atau di aliran dangkal yang mengalir cepat. Mereka menempel pada permukaan padat seperti batu, ranting, atau tumbuh-tumbuhan. Mereka tidak terjadi pada permukaan yang lembut.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/2/25/Hydra-Foto.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/landak_laut">
+    <features:Nama>Landak Laut</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Echinodermata</dc:Filum>
+    <dc:Kelas>Echinoidea</dc:Kelas>
+    <descriptions:overall>
+    Ukuran bulu babi biasanya berkisar antara 3 hingga 10 cm (1 hingga 4 inci), meskipun spesies terbesar dapat mencapai hingga 36 cm (14 inci). Mereka memiliki tubuh yang kaku dan biasanya berbentuk bola dengan duri yang dapat digerakkan, yang memberi nama kelas tersebut. Echinoidea (dari bahasa Yunani ekhinos 'tulang belakang'). Nama landak adalah kata lama untuk landak, yang mirip dengan bulu babi; mereka secara kuno disebut landak laut. Nama ini berasal dari bahasa Prancis Kuno herichun, dari bahasa Latin ericius ('landak').
+
+Seperti echinodermata lainnya, larva awal bulu babi memiliki simetri bilateral, tetapi mereka mengembangkan simetri lima kali lipat saat dewasa. Hal ini paling jelas terlihat pada bulu babi "biasa", yang memiliki tubuh kira-kira bulat dengan lima bagian berukuran sama yang memancar keluar dari sumbu pusatnya. Mulut berada di dasar hewan dan anus di atas; permukaan bawah digambarkan sebagai "oral" dan permukaan atas sebagai "aboral".
+
+Beberapa bulu babi, bagaimanapun, termasuk dolar pasir, berbentuk oval, dengan ujung depan dan belakang yang berbeda, memberi mereka tingkat simetri bilateral. Pada bulu babi ini, permukaan tubuh bagian atas sedikit berkubah, tetapi bagian bawahnya rata, sedangkan bagian sampingnya tidak memiliki kaki tabung. Bentuk tubuh "tidak teratur" ini telah berevolusi untuk memungkinkan hewan menggali melalui pasir atau bahan lunak lainnya.
+    </descriptions:overall>
+    <descriptions:habitat>
+    Bulu babi hanya hidup di laut dan tidak dapat bertahan hidup di air tawar. Mereka ditemukan dari intertidal ke laut dalam. Spesies yang kemungkinan besar akan kami gunakan di lab berasal dari intertidal atau subtidal dangkal.
+    </descriptions:habitat>
+    <features:img>
+    https://www.worldatlas.com/r/w960-q80/upload/b3/92/a4/shutterstock-342592523.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/semut">
+    <features:Nama>Semut</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Arthropoda</dc:Filum>
+    <dc:Kelas>Insecta</dc:Kelas>
+    <dc:Ordo>Hymenoptera</dc:Ordo>
+    <dc:Famili>Formicidae</dc:Famili>
+    <descriptions:overall>
+Semut adalah serangga eusosial dari keluarga Formicidae dan, bersama dengan tawon dan lebah terkait, termasuk dalam ordo Hymenoptera. Semut muncul dalam catatan fosil di seluruh dunia dalam keragaman yang cukup besar selama Kapur Awal terbaru dan Kapur Akhir awal, menunjukkan asal mula yang lebih awal. Semut berevolusi dari nenek moyang tawon vespoid pada periode Kapur, dan terdiversifikasi setelah munculnya tanaman berbunga. Lebih dari 13.800 dari total perkiraan 22.000 spesies telah diklasifikasikan. Mereka mudah diidentifikasi dengan antena geniculate (bersiku) dan struktur seperti simpul khas yang membentuk pinggang ramping mereka.
+
+Semut membentuk koloni yang ukurannya berkisar dari beberapa lusin individu pemangsa yang hidup di rongga alami kecil hingga koloni yang sangat terorganisir yang dapat menempati wilayah besar dan terdiri dari jutaan individu. Koloni yang lebih besar terdiri dari berbagai kasta betina yang steril dan tidak bersayap, yang sebagian besar adalah pekerja (ergate), serta tentara (dinergate) dan kelompok khusus lainnya. Hampir semua koloni semut juga memiliki beberapa jantan subur yang disebut "drone" dan satu atau lebih betina subur yang disebut "ratu" (gynes). Koloni digambarkan sebagai superorganisme karena semut tampaknya beroperasi sebagai entitas yang bersatu, secara kolektif bekerja sama untuk mendukung koloni. 
+    </descriptions:overall>
+    <descriptions:habitat>
+    Kebanyakan semut hidup di sarang, yang mungkin terletak di tanah atau di bawah batu atau dibangun di atas tanah dan terbuat dari ranting, pasir, atau kerikil. Semut tukang kayu (Camponotus) adalah semut hitam besar yang umum di Amerika Utara yang hidup di kayu gelondongan dan kayu tua. Beberapa spesies hidup di pohon atau di batang gulma yang berlubang.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fire_ants_01.jpg/800px-Fire_ants_01.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/rusa">
+    <features:Nama>Rusa</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Chordata</dc:Filum>
+    <dc:Kelas>Mamalia</dc:Kelas>
+    <dc:Ordo>Artiodactyla</dc:Ordo>
+    <dc:Famili>Cervidae</dc:Famili>
+    <descriptions:overall>
+Rusa atau kijang sejati adalah mamalia ruminansia berkuku yang membentuk famili Cervidae. Dua kelompok utama rusa adalah Cervinae, termasuk muntjac, elk (wapiti), red deer, dan fallow deer; dan Capreolinae, termasuk rusa kutub (karibou), rusa berekor putih, rusa roe, dan rusa besar. Rusa jantan dari semua spesies (kecuali rusa air Cina) serta rusa betina, tumbuh dan melepaskan tanduk baru setiap tahun. Dalam hal ini mereka berbeda dari kijang bertanduk permanen, yang merupakan bagian dari keluarga yang berbeda (Bovidae) dalam urutan yang sama dari ungulata berujung genap (Artiodactyla).
+
+Rusa kesturi (Moschidae) dari Asia dan chevrotain (Tragulidae) dari hutan tropis Afrika dan Asia adalah famili terpisah yang juga termasuk dalam klad ruminansia Ruminantia; mereka tidak terkait erat dengan Cervidae.
+
+Rusa muncul dalam seni dari lukisan gua Paleolitik dan seterusnya, dan mereka telah memainkan peran dalam mitologi, agama, dan sastra sepanjang sejarah, serta dalam lambang, seperti rusa merah yang muncul di lambang land. Kepentingan ekonomi mereka termasuk penggunaan daging mereka sebagai daging rusa, kulit mereka sebagai kulit rusa yang lembut dan kuat, dan tanduk mereka sebagai pegangan pisau. Perburuan rusa telah menjadi kegiatan yang populer setidaknya sejak Abad Pertengahan dan tetap menjadi sumber daya bagi banyak keluarga saat ini. 
+    </descriptions:overall>
+    <descriptions:habitat>
+    Rusa ditemukan di banyak ekosistem yang berbeda. Mereka hidup di lahan basah, hutan gugur, padang rumput, hutan hujan, semak belukar kering dan pegunungan.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Chital_%288458215435%29.jpg/220px-Chital_%288458215435%29.jpg
+    </features:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.librarydemundo.com/features/ular">
+    <features:Nama>Ular</features:Nama>
+    <dc:Kingdom>Animalia</dc:Kingdom>
+    <dc:Filum>Chordata</dc:Filum>
+    <dc:Kelas>Reptilia</dc:Kelas>
+    <dc:Ordo>Squamata</dc:Ordo>
+    <descriptions:overall>
+    Ciri-ciri utama ular adalah bertubuh panjang dan tidak memiliki kaki. Akan tetapi, ciri-ciri tersebut juga dimiliki oleh beberapa jenis kadal, misalnya (kadal-pensil Burton). Ciri-ciri selanjutnya adalah ular tidak memiliki indera pendengaran sama sekali. Akan tetapi, ular bisa merasakan getaran melalui rahang bawahnya saat menempel di tanah atau di permukaan. Ular tidak memiliki kelopak mata yang dapat di buka-tutup, dan matanya selalu terbuka selama hidupnya. Walaupun begitu, mata ular dilapisi oleh sisik bening yang melindunginya dari kotoran. Ciri utama lainnya adalah, lidah ular bercabang dua dengan masing-masing cabangnya berukuran panjang dan runcing, dan dapat dijulurkan ke luar melalui rongga di tengah bibirnya. Dengan kata lain, ular dapat menjulurkan lidahnya dalam keadaan mulut tertutup rapat. Ular menjulurkan lidahnya untuk mendeteksi bau di udara, sementara hidung ular hanya digunakan untuk bernafas. Setiap cabang lidah ular dilengkapi dengan kelenjar yang dapat menangkap partikel bau di udara, lalu ular akan menarik lidahnya kembali ke mulut. Selanjutnya, partikel-partikel bau yang menempel di lidahnya itu disalurkan ke sebuah organ pengenal bau yang terletak di langit-langit rahang atasnya. Organ tersebut disebut Organ Jacobson. Setelah diidentifikasi, organ tersebut mengirimkan informasi ke otak ular. Otak akan memprosesnya dan menentukan hal selanjutnya yang akan dilakukan oleh ular, berdasarkan hasil identifikasi bau tersebut, misalnya memburu sumber bau yang berupa mangsanya. Beberapa jenis ular memiliki organ khusus untuk mengidentifikasi temperatur lingkungannya. Alat ini disebut Termoreseptor, dan berguna bagi ular untuk mengetahui dan melacak keberadaan hewan berdarah panas seperti burung dan mamalia. Organ ini dapat berupa sepasang lubang yang terletak di antara mata dan lubang hidung (misalnya pada ular-ular Crotalidae), atau berupa lapisan yang terletak di sela-sela sisik bibir atas (misalnya pada jenis-jenis Boidae dan Pythonidae).
+    </descriptions:overall>
+    <descriptions:habitat>
+    Ular merupakan salah satu reptilia yang paling sukses berkembang di dunia. dapat di semua tipe habitat: hutan, padang rumput, gurun/padang pasir, sungai, danau, dataran tinggi, perkebunan, persawahan, laut, dan juga di pemukiman manusia. Akan tetapi, seperti halnya reptilia lainnya, ular tidak terdapat dan tidak dapat ditemukan di daerah dingin seperti di puncak gunung dan di daerah lingkar kutub (beberapa spesies ada yang mampu hidup di daerah dekat kutub utara). Ular juga tidak terdapat dan tidak ditemukan di Irlandia, Selandia, Greenland, pulau-pulau baru di Pasifik seperti Hawaii, serta di Samudera Atlantik.
+
+sebagian besar hidup dan tinggal di tanah, sebagian lagi hidup dan tinggal di atas pohon atau tanaman. Walau begitu, sebagian besar spesies ular di tanah dapat memanjat pohon. Selain di tanah dan pohon, ular juga hidup di perairan, bahkan ada beberapa jenis ular yang hidup di udara dan tidak pernah berkelana di darat samasekali, misalnya ular jenis Hydrophiidae.
+    </descriptions:habitat>
+    <features:img>
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dendre_pict_080410-6980_tdp.jpg/800px-Dendre_pict_080410-6980_tdp.jpg
+    </features:img>
+    </rdf:Description>
+</rdf:RDF>
